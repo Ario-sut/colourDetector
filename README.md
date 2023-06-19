@@ -15,4 +15,6 @@ This Python script allows you to detect the color of a pixel in an image and dis
 2. Install the required libraries if you haven't already:
 
    ```shell
-   pip install opencv-python pandas
+   pip install opencv-python
+   ```shell
+   pip install pandas
